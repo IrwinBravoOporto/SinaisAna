@@ -4,7 +4,7 @@ Hello
 <p><em>student of <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: sinais-blanco-guanda](https://img.shields.io/badge/-sinais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinais-blanco-guanda)](https://www.linkedin.com/in/sinais-blanco-guanda)
+[![Linkedin: sinais-blanco-guanda](https://img.shields.io/badge/-sinais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinais-blanco-guanda-9365321b9/)](https://www.linkedin.com/in/sinais-blanco-guanda-9365321b9/)
 [![GitHub sinais](https://img.shields.io/github/followers/SinaisAna?label=follow&style=social)](https://github.com/SinaisAna)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
